@@ -14,7 +14,7 @@ const useStyles = makeStyles({
 export default () => {
   const classes = useStyles();
 
-  const name = "mohit's";
+  const name = "mohit-react-visualization's";
   return (
     <AppBar position="static">
       <Toolbar>
